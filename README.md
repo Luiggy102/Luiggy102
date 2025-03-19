@@ -1,18 +1,15 @@
 # Hello there! 👋
 
-![baner](https://github.com/Luiggy102/Luiggy102/assets/79861715/b2b912a6-eb49-479a-bba3-1934d4b9a524)
+![Luiggy](https://github.com/user-attachments/assets/6c86d115-467a-49b2-bc10-4f535df09a62)
 
 ## About me
 
-**I'm Luiggy** - I'm a software engineer Student, focused in always learning new things. I'm interested in backend development and I'm current improving my skills. I also like operative systems and vim.
+**I'm Luiggy** - I am a junior developer passionate about backend development, specializing in **.NET Core and Golang**, with experience in **SQL Server, Postgres, MySQL, MongoDB, Docker, and Linux**. While my main focus is backend, I’m open to fullstack development when needed.  
 
-## My programming and markup languages 🛠
+I enjoy working with databases, optimizing performance, and creating scalable solutions. I’m always eager to learn, explore new technologies, and improve my skills. Open source and cloud technologies are areas that particularly interest me, and I actively follow industry trends to stay up to date.  
 
-[![My Skills](https://skills.thijs.gg/icons?i=go,bash,md,latex,)](https://skillicons.dev)
+Let’s connect and collaborate! 🚀💻
 
-## My Tools 🖌
-
-[![My Skills](https://skills.thijs.gg/icons?i=neovim,vim,git,github,stackoverflow,linux,)](https://skillicons.dev)
 
 ## Reach me via 👇
 
