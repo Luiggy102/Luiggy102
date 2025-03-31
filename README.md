@@ -4,7 +4,7 @@
 
 ## About me
 
-**I'm Luiggy** - I am a junior developer passionate about backend development, specializing in **.NET Core and Golang**, with experience in **SQL Server, Postgres, MySQL, MongoDB, Docker, and Linux**. While my main focus is backend, I’m open to fullstack development when needed.  
+**I'm Luiggy** - I am a software developer passionate about backend development, specializing in **.NET Core and Golang**, with experience in **SQL Server, Postgres, MySQL, MongoDB, Docker, and Linux**. While my main focus is backend, I’m open to fullstack development when needed.  
 
 I enjoy working with databases, optimizing performance, and creating scalable solutions. I’m always eager to learn, explore new technologies, and improve my skills. Open source and cloud technologies are areas that particularly interest me, and I actively follow industry trends to stay up to date.  
 
