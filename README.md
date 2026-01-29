@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-![Luiggy](https://github.com/user-attachments/assets/6c86d115-467a-49b2-bc10-4f535df09a62)
+![Luiggy Tamayo(1)](https://github.com/user-attachments/assets/c817fc4f-c666-42f1-974d-e8981368c32e)
 
 ## About me
 
